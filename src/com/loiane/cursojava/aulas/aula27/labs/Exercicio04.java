@@ -14,7 +14,7 @@ public class Exercicio04 {
 
         boolean ganhou = false;
         char sinal;
-        int linha = 0, coluna = 0;
+        int linha, coluna;
 
         while (!ganhou) {
             if (jogoDaVelha.vezJogador1()) {
