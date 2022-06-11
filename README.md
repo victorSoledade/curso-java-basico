@@ -1,2 +1,2 @@
 # curso-java-basico
- Curso de java básico da Loiane.training
+ Alguns códigos que estou aprendendo no curso da Loiane Groner e rascunhos, tentativas de etender/aprender java
