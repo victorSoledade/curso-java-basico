@@ -16,8 +16,8 @@ public class Exercicio01 {
 
         Contato[] contatos = new Contato[3];
 
-        for (int i = 0; i < 3; i++) {
-            System.out.println("Entre com as informacoes do contato " + i);
+        for (int i = 0; i < contatos.length; i++) {
+            System.out.println("Entre com as informacoes do contato " + (i+1));
             Contato c = new Contato();
 
             System.out.println("Entre com o nome");

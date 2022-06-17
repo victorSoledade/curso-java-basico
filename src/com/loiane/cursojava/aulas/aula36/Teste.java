@@ -2,6 +2,7 @@ package com.loiane.cursojava.aulas.aula36;
 
 public class Teste {
     public static void main(String[] args) {
+
         Contato contato = new Contato();
 
         contato.setNome("W.W");
